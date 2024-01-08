@@ -27,9 +27,3 @@ Server should be ruuning on localhost:3000
 > `cd .\client`
 > `npm install`
 > `npm run dev`
-
-Client should be running on localhost:5173
-
-## Deployment
-
-This project was deployed on Render's free tier (https://render.com). whose links can't be shared due to possible misuse of admin panel or server endpoint. Make sure to create .env files and punch in your own ENV variables following both client and server dvars.
