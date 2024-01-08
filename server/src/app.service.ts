@@ -27,7 +27,7 @@ export class AppService {
       return
     }
 
-    await ctx.reply('Hello! Welcome to Atlas Weather, the best possible weather bot you could ever depend upon!');
+    await ctx.reply('Hello! Welcome to Atmos Weather, the best possible weather bot you could ever depend upon!');
   }
 
   // Executed whenever the user sends the help command for previewing all cmds
