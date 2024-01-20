@@ -1,10 +1,9 @@
-#
-Live as @Equinox_astroBot on Telegram.
-start with /help to know all commands.
-
 # ATMOS Weather Bot
 
 Telegram bot that fetches the latest accurate weather statistics that the user can subscribe to for daily/one-time updates, generate random aesthetic images from Unsplash, etc. Also has an admin panel supporting editing, deleting or blocking users, as well as changing bot settings (API Key).
+
+Live as @Equinox_astroBot on Telegram.
+start with /help to know all commands.
 
 ## Frontend
 
